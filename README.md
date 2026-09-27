@@ -138,3 +138,28 @@ SUMX(
 Sales,
 Sales[Quantity] * Sales[Selling Price]
 )
+
+### 2. Total Profit
+
+Total Profit =
+SUMX(
+Sales,
+(Sales[Selling Price ] - Sales[Cost Price] * Sales[Quantity]
+
+### 3. Total Transactions
+
+Total Transactions =
+COUNTROWS(Sales)
+
+### 4. Total Quantity
+
+Total Quantity =
+SUM(Sales[Quantity]}
+
+### 5. Average Selling Price
+
+Average Selling Price =
+DIVIDE(
+[TOTAL SALES],
+[TOTAL QUANTITY]
+)
