@@ -125,3 +125,16 @@ Power BI Visualizations
 Interactive Dashboard
 ↓
 Business Insights
+
+## 🧮 DAX Measures
+
+DAX (Data Analysis Expressions) was used to create measures for the key business metrics displayed in the dashboard.
+
+### 1. Total Sales
+
+```DAX
+TOTAL SALES =
+SUMX(
+Sales,
+Sales[Quantity] * Sales[Selling Price]
+)
