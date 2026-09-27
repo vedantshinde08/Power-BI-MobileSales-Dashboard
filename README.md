@@ -249,12 +249,5 @@ The dashboard provides an overview of mobile sales performance across different 
 
 The dashboard can be used to monitor overall sales and profitability, analyze sales trends, compare brands and mobile models, understand geographical sales distribution, and examine customer payment-method
 
----
-
-## 📸 Dashboard Preview
-
-The Power BI dashboard provides an interactive view of mobile sales performance, including KPIs, sales trends, geographical analysis, brand performance, payment methods, and mobile model performance.
-
-![Mobile Sales Dashboard](Mobile_sales_dashboard.png.png)
 
 
