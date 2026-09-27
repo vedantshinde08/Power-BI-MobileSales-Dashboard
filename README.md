@@ -163,4 +163,67 @@ DIVIDE(
 [TOTAL SALES],
 [TOTAL QUANTITY]
 )
- 
+---
+
+## 📊 Dashboard Visualizations
+
+The dashboard contains interactive KPI cards, filters, and visualizations to analyze mobile sales performance from different perspectives.
+
+### 1. KPI Cards
+
+Five KPI cards are used to provide a quick summary of the overall sales performance:
+
+- **Total Profit** – Shows the total profit generated from mobile sales.
+- **Total Sales** – Shows the total sales revenue generated.
+- **Total Transactions** – Shows the total number of sales transactions.
+- **Total Quantity** – Shows the total number of mobile units sold.
+- **Average Selling Price** – Shows the average selling price per mobile unit.
+
+### 2. Sales by Month
+
+A **Line Chart** is used to display total sales across different months.
+
+**Purpose:**
+To identify changes and trends in sales performance over time.
+
+### 3. Sales by City
+
+A **Map Visualization** is used to display total sales across different cities.
+
+**Purpose:**
+To understand the geographical distribution of mobile sales.
+
+### 4. Sales by Brand
+
+A **Bar Chart** is used to compare total sales across different mobile brands.
+
+**Purpose:**
+To identify differences in sales performance among brands.
+
+### 5. Sales by Payment Method
+
+A **Donut Chart** is used to show the distribution of sales across different payment methods.
+
+**Purpose:**
+To understand customer payment preferences.
+
+### 6. Sales by Mobile Model
+
+A **Bar Chart** is used to compare sales performance across different mobile models.
+
+**Purpose:**
+To identify which mobile models contribute to overall sales.
+
+---
+
+## 🎛️ Interactive Filters
+
+The dashboard includes interactive slicers that allow users to filter the analysis dynamically.
+
+- **Brand** – Filter the dashboard by mobile brand.
+- **Month** – Analyze sales for a selected month.
+- **City** – Analyze sales for a specific city.
+- **Payment Method** – Analyze sales based on the selected payment method.
+
+The KPI cards and visualizations update dynamically when filters are applied.
+
