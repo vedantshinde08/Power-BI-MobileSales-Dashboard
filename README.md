@@ -226,4 +226,28 @@ The dashboard includes interactive slicers that allow users to filter the analys
 - **Payment Method** – Analyze sales based on the selected payment method.
 
 The KPI cards and visualizations update dynamically when filters are applied.
+---
+
+## 💡 Business Insights
+
+The dashboard provides an overview of mobile sales performance across different dimensions such as time, location, brand, payment method, and mobile model.
+
+### Key Insights
+
+- The dashboard reports approximately **2.82 billion in total sales** across the available sales transactions.
+- The total profit displayed on the dashboard is approximately **472 million**.
+- Approximately **62K mobile units** were sold across **25K transactions**.
+- The average selling price displayed on the dashboard is approximately **45.29K**.
+- The monthly sales line chart helps identify changes in sales performance over time.
+- The city map provides a geographical view of sales distribution across different locations.
+- The brand comparison chart allows sales performance to be compared across mobile brands.
+- The payment method donut chart shows how sales are distributed across different payment methods.
+- The mobile model chart provides a comparison of sales across different mobile models.
+- Interactive filters allow users to analyze the KPIs and visualizations based on **Brand, Month, City, and Payment Method**.
+
+### 📌 Business Use
+
+The dashboard can be used to monitor overall sales and profitability, analyze sales trends, compare brands and mobile models, understand geographical sales distribution, and examine customer payment-method
+
+
 
